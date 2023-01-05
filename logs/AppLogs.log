@@ -1,0 +1,141 @@
+[INFO ] 2023-01-03 13:50:46.932 [main] P1AdminLoginPage - Verifying open admin user login
+[INFO ] 2023-01-03 13:50:58.043 [main] P1AdminLoginPage - Verifying admin user login
+[INFO ] 2023-01-03 13:51:11.323 [main] P2AdminHomePage - Home page is displayed successfully
+[INFO ] 2023-01-03 13:59:43.918 [main] P1AdminLoginPage - Verifying open admin user login
+[INFO ] 2023-01-03 13:59:46.111 [main] P1AdminLoginPage - Verifying admin user login
+[INFO ] 2023-01-03 13:59:47.121 [main] P2AdminHomePage - Home page is displayed successfully
+[INFO ] 2023-01-03 13:59:56.229 [main] P1AdminLoginPage - Verifying open admin user login
+[INFO ] 2023-01-03 14:00:01.352 [main] P1AdminLoginPage - Verifying admin user login
+[INFO ] 2023-01-03 14:00:02.473 [main] P2AdminHomePage - Home page is displayed successfully
+[INFO ] 2023-01-03 14:00:11.598 [main] P1AdminLoginPage - Verifying gotoWebSite Link
+[INFO ] 2023-01-03 14:00:15.795 [main] UserHomePage - User Home page is displayed successfully
+[INFO ] 2023-01-03 14:00:19.474 [main] P1AdminLoginPage - Verifying open admin user login
+[INFO ] 2023-01-03 14:00:23.252 [main] P1AdminLoginPage - Verifying admin user login
+[INFO ] 2023-01-03 14:00:24.282 [main] P2AdminHomePage - Home page is displayed successfully
+[INFO ] 2023-01-03 14:00:37.623 [main] P1AdminLoginPage - Verifying gotoWebSite Link
+[INFO ] 2023-01-03 14:00:41.798 [main] UserHomePage - User Home page is displayed successfully
+[INFO ] 2023-01-03 14:00:42.064 [main] UserHomePage - Verified deposit happened  successfully
+[INFO ] 2023-01-03 15:37:50.430 [main] P1AdminLoginPage - Verifying open admin user login
+[INFO ] 2023-01-03 15:37:56.436 [main] P1AdminLoginPage - Verifying admin user login
+[INFO ] 2023-01-03 15:38:03.216 [main] P2AdminHomePage - Home page is displayed successfully
+[INFO ] 2023-01-03 15:38:18.642 [main] P1AdminLoginPage - Verifying open admin user login
+[INFO ] 2023-01-03 15:38:23.863 [main] P1AdminLoginPage - Verifying admin user login
+[INFO ] 2023-01-03 15:38:24.994 [main] P2AdminHomePage - Home page is displayed successfully
+[INFO ] 2023-01-03 15:38:35.087 [main] P1AdminLoginPage - Verifying gotoWebSite Link
+[INFO ] 2023-01-03 15:38:40.446 [main] UserHomePage - User Home page is displayed successfully
+[INFO ] 2023-01-03 15:38:44.487 [main] P1AdminLoginPage - Verifying open admin user login
+[INFO ] 2023-01-03 15:38:50.384 [main] P1AdminLoginPage - Verifying admin user login
+[INFO ] 2023-01-03 15:38:52.456 [main] P2AdminHomePage - Home page is displayed successfully
+[INFO ] 2023-01-03 15:39:05.160 [main] P1AdminLoginPage - Verifying gotoWebSite Link
+[INFO ] 2023-01-03 15:39:09.169 [main] UserHomePage - User Home page is displayed successfully
+[INFO ] 2023-01-03 15:39:09.204 [main] UserHomePage - Verified deposit happened  successfully
+[INFO ] 2023-01-04 14:35:34.491 [main] P1AdminLoginPage - Verifying open admin user login
+[INFO ] 2023-01-04 14:35:47.825 [main] P1AdminLoginPage - Verifying admin user login
+[INFO ] 2023-01-04 14:36:01.056 [main] P2AdminHomePage - Home page is displayed successfully
+[INFO ] 2023-01-04 14:36:17.487 [main] P1AdminLoginPage - Verifying open admin user login
+[INFO ] 2023-01-04 14:36:29.425 [main] P1AdminLoginPage - Verifying admin user login
+[INFO ] 2023-01-04 14:36:31.932 [main] P2AdminHomePage - Home page is displayed successfully
+[INFO ] 2023-01-04 14:36:47.626 [main] P1AdminLoginPage - Verifying gotoWebSite Link
+[INFO ] 2023-01-04 14:36:54.650 [main] UserHomePage - User Home page is displayed successfully
+[INFO ] 2023-01-04 14:37:09.576 [main] P1AdminLoginPage - Verifying open admin user login
+[INFO ] 2023-01-04 14:37:22.084 [main] P1AdminLoginPage - Verifying admin user login
+[INFO ] 2023-01-04 14:37:23.746 [main] P2AdminHomePage - Home page is displayed successfully
+[INFO ] 2023-01-04 14:50:48.486 [main] P1AdminLoginPage - Verifying open admin user login
+[INFO ] 2023-01-04 14:50:53.124 [main] P1AdminLoginPage - Verifying admin user login
+[INFO ] 2023-01-04 14:50:53.486 [main] P4NewAccountPage - Manage Account page is displayed successfully
+[INFO ] 2023-01-04 14:57:45.058 [main] P1AdminLoginPage - Verifying open admin user login
+[INFO ] 2023-01-04 14:57:49.167 [main] P1AdminLoginPage - Verifying admin user login
+[INFO ] 2023-01-04 14:57:49.469 [main] P4NewAccountPage - Manage Account page is displayed successfully
+[INFO ] 2023-01-04 15:04:04.616 [main] P1AdminLoginPage - Verifying open admin user login
+[INFO ] 2023-01-04 15:04:08.185 [main] P1AdminLoginPage - Verifying admin user login
+[INFO ] 2023-01-04 15:04:08.485 [main] P4NewAccountPage - Manage Account page is displayed successfully
+[INFO ] 2023-01-04 15:09:43.728 [main] P1AdminLoginPage - Verifying open admin user login
+[INFO ] 2023-01-04 15:09:48.179 [main] P1AdminLoginPage - Verifying admin user login
+[INFO ] 2023-01-04 15:09:48.507 [main] P4NewAccountPage - Manage Account page is displayed successfully
+[INFO ] 2023-01-04 15:10:52.256 [main] P1AdminLoginPage - Verifying open admin user login
+[INFO ] 2023-01-04 15:10:55.759 [main] P1AdminLoginPage - Verifying admin user login
+[INFO ] 2023-01-04 15:10:56.112 [main] P4NewAccountPage - Manage Account page is displayed successfully
+[INFO ] 2023-01-04 15:15:33.897 [main] P1AdminLoginPage - Verifying open admin user login
+[INFO ] 2023-01-04 15:15:37.829 [main] P1AdminLoginPage - Verifying admin user login
+[INFO ] 2023-01-04 15:15:38.169 [main] P4NewAccountPage - Manage Account page is displayed successfully
+[INFO ] 2023-01-04 17:08:38.718 [main] P1AdminLoginPage - Verifying open admin user login
+[INFO ] 2023-01-04 17:08:41.187 [main] P1AdminLoginPage - Verifying admin user login
+[INFO ] 2023-01-04 17:08:42.508 [main] P2AdminHomePage - Home page is displayed successfully
+[INFO ] 2023-01-04 17:08:42.509 [main] P2AdminHomePage -  AccountManagement page is displayed successfully
+[INFO ] 2023-01-04 17:08:42.961 [main] P4NewAccountPage -  AccountManagement page is displayed successfully
+[INFO ] 2023-01-04 17:08:54.096 [main] P1AdminLoginPage - Verifying gotoWebSite Link
+[INFO ] 2023-01-04 17:08:58.332 [main] P7UserHomePage - User Home page is displayed successfully
+[INFO ] 2023-01-04 17:44:57.366 [main] P1AdminLoginPage - Verifying open admin user login
+[INFO ] 2023-01-04 17:45:02.417 [main] P1AdminLoginPage - Verifying admin user login
+[INFO ] 2023-01-04 17:45:02.962 [main] P2AdminHomePage -  AccountManagement page is displayed successfully
+[INFO ] 2023-01-04 17:45:04.925 [main] P3AccountManagementPage -  AccountManagement page is displayed successfully
+[INFO ] 2023-01-04 17:45:05.414 [main] P4NewAccountPage -  AccountManagement page is displayed successfully
+[INFO ] 2023-01-04 17:45:05.746 [main] P4NewAccountPage - AccountManagement  page is NOT displayed
+[INFO ] 2023-01-04 17:48:43.687 [main] P1AdminLoginPage - Verifying open admin user login
+[INFO ] 2023-01-04 17:48:52.239 [main] P1AdminLoginPage - Verifying admin user login
+[INFO ] 2023-01-04 17:48:53.730 [main] P2AdminHomePage -  AccountManagement page is displayed successfully
+[INFO ] 2023-01-04 17:48:54.040 [main] P3AccountManagementPage -  AccountManagement page is displayed successfully
+[INFO ] 2023-01-04 17:48:54.804 [main] P4NewAccountPage -  AccountManagement page is displayed successfully
+[INFO ] 2023-01-04 17:48:55.139 [main] P4NewAccountPage - AccountManagement  page is NOT displayed
+[INFO ] 2023-01-04 17:52:15.018 [main] P1AdminLoginPage - Verifying open admin user login
+[INFO ] 2023-01-04 17:52:19.510 [main] P1AdminLoginPage - Verifying admin user login
+[INFO ] 2023-01-04 17:52:19.840 [main] P2AdminHomePage -  AccountManagement page is displayed successfully
+[INFO ] 2023-01-04 17:52:20.759 [main] P3AccountManagementPage -  AccountManagement page is displayed successfully
+[INFO ] 2023-01-04 17:52:21.177 [main] P4NewAccountPage -  AccountManagement page is displayed successfully
+[INFO ] 2023-01-04 17:52:21.487 [main] P4NewAccountPage - AccountManagement  page is NOT displayed
+[INFO ] 2023-01-04 17:52:21.493 [main] P4NewAccountPage - Manage Account page is displayed successfully
+[INFO ] 2023-01-04 17:52:31.680 [main] P4NewAccountPage - Manage Account page is NOT displayed
+[INFO ] 2023-01-04 17:57:18.677 [main] P1AdminLoginPage - Verifying open admin user login
+[INFO ] 2023-01-04 17:57:22.749 [main] P1AdminLoginPage - Verifying admin user login
+[INFO ] 2023-01-04 17:57:23.048 [main] P2AdminHomePage -  AccountManagement page is displayed successfully
+[INFO ] 2023-01-04 17:57:24.344 [main] P3AccountManagementPage -  AccountManagement page is displayed successfully
+[INFO ] 2023-01-04 17:57:24.697 [main] P4NewAccountPage -  AccountManagement page is displayed successfully
+[INFO ] 2023-01-04 17:57:25.533 [main] P4NewAccountPage - AccountManagement  page is NOT displayed
+[INFO ] 2023-01-04 17:57:25.539 [main] P4NewAccountPage - Manage Account page is displayed successfully
+[INFO ] 2023-01-04 17:57:35.673 [main] P4NewAccountPage - Manage Account page is NOT displayed
+[INFO ] 2023-01-04 17:59:51.743 [main] P1AdminLoginPage - Verifying open admin user login
+[INFO ] 2023-01-04 17:59:56.583 [main] P1AdminLoginPage - Verifying admin user login
+[INFO ] 2023-01-04 17:59:56.936 [main] P2AdminHomePage -  AccountManagement page is displayed successfully
+[INFO ] 2023-01-04 17:59:59.251 [main] P3AccountManagementPage -  AccountManagement page is displayed successfully
+[INFO ] 2023-01-04 17:59:59.676 [main] P4NewAccountPage -  AccountManagement page is displayed successfully
+[INFO ] 2023-01-04 18:00:01.824 [main] P4NewAccountPage - Manage Account page is displayed successfully
+[INFO ] 2023-01-04 18:00:03.352 [main] P4NewAccountPage - Manage Account page is NOT displayed
+[INFO ] 2023-01-04 18:31:50.285 [main] P1AdminLoginPage - Verifying open admin user login
+[INFO ] 2023-01-04 18:31:53.957 [main] P1AdminLoginPage - Verifying admin user login
+[INFO ] 2023-01-04 18:31:55.061 [main] P2AdminHomePage -  AccountManagement page is displayed successfully
+[INFO ] 2023-01-04 18:31:56.137 [main] P3AccountManagementPage -  AccountManagement page is displayed successfully
+[INFO ] 2023-01-04 18:31:56.521 [main] P4NewAccountPage -  AccountManagement page is displayed successfully
+[INFO ] 2023-01-04 18:32:01.255 [main] P4NewAccountPage - Manage Account page is displayed successfully
+[INFO ] 2023-01-04 18:32:11.445 [main] P4NewAccountPage - Manage Account page is NOT displayed
+[INFO ] 2023-01-04 18:43:40.104 [main] P1AdminLoginPage - Verifying open admin user login
+[INFO ] 2023-01-04 18:43:43.684 [main] P1AdminLoginPage - Verifying admin user login
+[INFO ] 2023-01-04 18:43:44.005 [main] P2AdminHomePage -  AccountManagement page is displayed successfully
+[INFO ] 2023-01-04 18:43:45.297 [main] P3AccountManagementPage -  AccountManagement page is displayed successfully
+[INFO ] 2023-01-04 18:43:45.747 [main] P4NewAccountPage -  AccountManagement page is displayed successfully
+[INFO ] 2023-01-04 18:43:47.459 [main] P4NewAccountPage - Manage Account page is displayed successfully
+[INFO ] 2023-01-04 18:43:48.835 [main] P4NewAccountPage - Manage Account page is NOT displayed
+[INFO ] 2023-01-04 18:57:39.722 [main] P1AdminLoginPage - Verifying open admin user login
+[INFO ] 2023-01-04 18:57:46.794 [main] P1AdminLoginPage - Verifying admin user login
+[INFO ] 2023-01-04 18:57:48.685 [main] P2AdminHomePage - Home page is displayed successfully
+[INFO ] 2023-01-04 18:57:48.687 [main] P2AdminHomePage -  AccountManagement page is displayed successfully
+[INFO ] 2023-01-04 18:57:48.917 [main] P4NewAccountPage -  AccountManagement page is displayed successfully
+[INFO ] 2023-01-04 18:57:58.094 [main] P1AdminLoginPage - Verifying gotoWebSite Link
+[INFO ] 2023-01-04 18:58:02.549 [main] P7UserHomePage - User Home page is displayed successfully
+[INFO ] 2023-01-04 19:32:45.295 [main] P1AdminLoginPage - Verifying open admin user login
+[INFO ] 2023-01-04 19:32:47.363 [main] P1AdminLoginPage - Verifying admin user login
+[INFO ] 2023-01-04 19:32:47.934 [main] P2AdminHomePage -  AccountManagement page is displayed successfully
+[INFO ] 2023-01-04 19:32:50.508 [main] P3AccountManagementPage -  AccountManagement page is displayed successfully
+[INFO ] 2023-01-04 19:32:52.581 [main] P4NewAccountPage - Manage Account page is displayed successfully
+[INFO ] 2023-01-04 19:32:53.962 [main] P4NewAccountPage - Manage Account page is NOT displayed
+[INFO ] 2023-01-04 19:35:07.490 [main] P1AdminLoginPage - Verifying open admin user login
+[INFO ] 2023-01-04 19:35:23.205 [main] P1AdminLoginPage - Verifying admin user login
+[INFO ] 2023-01-04 19:35:23.593 [main] P2AdminHomePage -  AccountManagement page is displayed successfully
+[INFO ] 2023-01-04 19:35:24.937 [main] P3AccountManagementPage -  AccountManagement page is displayed successfully
+[INFO ] 2023-01-04 19:35:26.906 [main] P4NewAccountPage - Manage Account page is displayed successfully
+[INFO ] 2023-01-04 19:35:28.511 [main] P4NewAccountPage - Manage Account page is NOT displayed
+[INFO ] 2023-01-04 19:38:06.695 [main] P1AdminLoginPage - Verifying open admin user login
+[INFO ] 2023-01-04 19:38:16.529 [main] P1AdminLoginPage - Verifying admin user login
+[INFO ] 2023-01-04 19:38:17.046 [main] P2AdminHomePage -  AccountManagement page is displayed successfully
+[INFO ] 2023-01-04 19:38:21.494 [main] P3AccountManagementPage -  AccountManagement page is displayed successfully
+[INFO ] 2023-01-04 19:38:23.342 [main] P4NewAccountPage - Manage Account page is displayed successfully
+[INFO ] 2023-01-04 19:38:24.591 [main] P4NewAccountPage - Manage Account page is NOT displayed
